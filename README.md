@@ -3,7 +3,7 @@
 > AI 헬스케어 3기 해커톤 · Public Leaderboard **3위** · AUC **0.74235**
 
 ## 📌 프로젝트 개요
-
+## 🔗 팀 레포: https://github.com/bhw-rgb/AI-Hackathon-Predicting-Pregnancy-Success-for-Infertile-Patients
 난임 환자의 임상 데이터를 분석하여 임신 성공 여부를 예측하는 이진 분류 AI 모델입니다.
 
 | 항목 | 내용 |
